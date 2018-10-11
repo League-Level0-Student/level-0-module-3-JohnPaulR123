@@ -41,7 +41,7 @@ public class RobotColorChooser {
 			// colors & drawing them
 
 			// 4. Set the pen width to 10
-
+			Thanos.setPenWidth(10);
 			// 2. Make the robot draw a shape (this will take more than one line of code)
 			Thanos.penDown();
 			Thanos.turn(30);
